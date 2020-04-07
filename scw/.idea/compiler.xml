@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="scw-manager-impl" />
+        <module name="scw-bean" />
+        <module name="scw-common" />
+        <module name="Jedis" />
+        <module name="scw-manager-api" />
+        <module name="scw-main" />
+        <module name="spring-security-helloworld" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Jedis" target="1.8" />
+      <module name="scw-bean" target="1.8" />
+      <module name="scw-common" target="1.8" />
+      <module name="scw-main" target="1.8" />
+      <module name="scw-manager-api" target="1.8" />
+      <module name="scw-manager-impl" target="1.8" />
+      <module name="scw-parent" target="1.8" />
+      <module name="spring-security-helloworld" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

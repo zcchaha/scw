@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="static/jquery/jquery-2.1.1.min.js" type="text/javascript"></script>
+    <script src="static/layer/layer.js" type="text/javascript"></script>
+
+</head>
+<body>
+<button id="btn">点我</button>
+<script type="text/javascript">
+    $(function () {
+        $("#btn").click(function () {
+            // layer.alert("你咬我啊");
+
+            // layer.confirm("哈哈",{icon:5});
+            /*layer.confirm("确定删除吗？",{title:"删除提示"},function (aaa) {
+                alert("删除成功")
+                layer.close(aaa);
+            });*/
+
+            // layer.msg("哦豁",{icon:2,time:2000});
+
+            layer.load(2,{time:3000});
+
+        });
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Jedis/Jedis.iml" filepath="$PROJECT_DIR$/../Jedis/Jedis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/scw.iml" filepath="$PROJECT_DIR$/.idea/scw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw-bean/scw-bean.iml" filepath="$PROJECT_DIR$/scw-bean/scw-bean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw-common/scw-common.iml" filepath="$PROJECT_DIR$/scw-common/scw-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw-main/scw-main.iml" filepath="$PROJECT_DIR$/scw-main/scw-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw-manager-api/scw-manager-api.iml" filepath="$PROJECT_DIR$/scw-manager-api/scw-manager-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw-manager-impl/scw-manager-impl.iml" filepath="$PROJECT_DIR$/scw-manager-impl/scw-manager-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scw-parent/scw-parent.iml" filepath="$PROJECT_DIR$/scw-parent/scw-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-helloworld/spring-security-helloworld.iml" filepath="$PROJECT_DIR$/spring-security-helloworld/spring-security-helloworld.iml" />
+    </modules>
+  </component>
+</project>
